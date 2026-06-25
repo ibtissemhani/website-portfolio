@@ -1,0 +1,30 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#a855f7" stop-opacity="0.84"/>
+      <stop offset="1" stop-color="#f0abfc" stop-opacity="0.95"/>
+    </linearGradient>
+    <radialGradient id="r" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(880 160) rotate(120) scale(500 360)">
+      <stop stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="0.44" stop-color="#ffffff" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-50" y="-50" width="1300" height="860"><feGaussianBlur stdDeviation="36"/></filter>
+  </defs>
+  <rect width="1200" height="760" rx="56" fill="url(#g)"/>
+  <circle cx="215" cy="185" r="185" fill="#ffffff" fill-opacity="0.08" filter="url(#blur)"/>
+  <circle cx="990" cy="575" r="225" fill="#00d4ff" fill-opacity="0.16" filter="url(#blur)"/>
+  <rect x="690" y="110" width="360" height="240" rx="36" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.32"/>
+  <rect x="770" y="205" width="360" height="240" rx="36" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.26"/>
+  <path d="M80 565 C240 420 370 730 550 560 C750 370 880 440 1120 225" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4"/>
+  <path d="M92 596 C252 451 392 742 572 586 C772 400 910 474 1135 260" stroke="#7dd3fc" stroke-opacity="0.5" stroke-width="3"/>
+  <rect x="46" y="44" width="245" height="52" rx="26" fill="#ffffff" fill-opacity="0.16" stroke="#ffffff" stroke-opacity="0.25"/>
+  <text x="72" y="78" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.8">IMPACT</text>
+  <text x="48" y="255" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.6"><tspan x="48" dy="0">Socio-Economic
+Value Chain
+Reporting</tspan></text>
+  <rect x="48" y="624" width="314" height="54" rx="27" fill="#ffffff" fill-opacity="0.16" stroke="#ffffff" stroke-opacity="0.25"/>
+  <text x="75" y="659" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Portfolio Project</text>
+  <rect width="1200" height="760" rx="56" fill="url(#r)"/>
+</svg>

@@ -1,4 +1,4 @@
-# Hani Ibtissem — One-Page Portfolio Landing Page
+# Hani Ibtissem
 
 This folder contains a polished, responsive one-page portfolio website built with HTML, CSS, and JavaScript.
 
